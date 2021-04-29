@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ReductorPOC</string>
+    <string name="increment">Increment</string>
+    <string name="add_5">Add 5</string>
+    <string name="next_page">Next Page</string>
+    <string name="go_back">Go Back</string>
+</resources>
